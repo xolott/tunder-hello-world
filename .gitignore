@@ -1,0 +1,10 @@
+.dart_tool/
+.vscode/
+benchmark/
+coverage/
+.packages
+packages
+.env
+.env.test
+
+**/.DS_Store
