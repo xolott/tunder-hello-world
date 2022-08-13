@@ -1,0 +1,13 @@
+name: hello_world
+homepage: https://google.com
+description: Tunder Project
+repository: none
+publish_to: none
+environment:
+  sdk: '>=2.16.1 <3.0.0'
+dependencies:
+  dotenv: ^4.0.0
+  shelf_hotreload: ^1.3.0
+  tunder: ^0.1.0
+dev_dependencies:
+  test: ^1.21.4
